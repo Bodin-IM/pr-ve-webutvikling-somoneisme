@@ -1,0 +1,14 @@
+.SecondPage{
+    display: flex;
+    background-color: #156082;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+#WritingOnSecondPage{
+    color: white;
+}
+.body{
+    background-color: #156082;
+}
